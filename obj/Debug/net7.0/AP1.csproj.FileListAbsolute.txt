@@ -1,0 +1,15 @@
+/Users/lucasprobst/Desktop/TDE-POO/TDE-AP1/POO/AP1/bin/Debug/net7.0/AP1
+/Users/lucasprobst/Desktop/TDE-POO/TDE-AP1/POO/AP1/bin/Debug/net7.0/AP1.deps.json
+/Users/lucasprobst/Desktop/TDE-POO/TDE-AP1/POO/AP1/bin/Debug/net7.0/AP1.runtimeconfig.json
+/Users/lucasprobst/Desktop/TDE-POO/TDE-AP1/POO/AP1/bin/Debug/net7.0/AP1.dll
+/Users/lucasprobst/Desktop/TDE-POO/TDE-AP1/POO/AP1/bin/Debug/net7.0/AP1.pdb
+/Users/lucasprobst/Desktop/TDE-POO/TDE-AP1/POO/AP1/obj/Debug/net7.0/AP1.csproj.AssemblyReference.cache
+/Users/lucasprobst/Desktop/TDE-POO/TDE-AP1/POO/AP1/obj/Debug/net7.0/AP1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucasprobst/Desktop/TDE-POO/TDE-AP1/POO/AP1/obj/Debug/net7.0/AP1.AssemblyInfoInputs.cache
+/Users/lucasprobst/Desktop/TDE-POO/TDE-AP1/POO/AP1/obj/Debug/net7.0/AP1.AssemblyInfo.cs
+/Users/lucasprobst/Desktop/TDE-POO/TDE-AP1/POO/AP1/obj/Debug/net7.0/AP1.csproj.CoreCompileInputs.cache
+/Users/lucasprobst/Desktop/TDE-POO/TDE-AP1/POO/AP1/obj/Debug/net7.0/AP1.dll
+/Users/lucasprobst/Desktop/TDE-POO/TDE-AP1/POO/AP1/obj/Debug/net7.0/refint/AP1.dll
+/Users/lucasprobst/Desktop/TDE-POO/TDE-AP1/POO/AP1/obj/Debug/net7.0/AP1.pdb
+/Users/lucasprobst/Desktop/TDE-POO/TDE-AP1/POO/AP1/obj/Debug/net7.0/AP1.genruntimeconfig.cache
+/Users/lucasprobst/Desktop/TDE-POO/TDE-AP1/POO/AP1/obj/Debug/net7.0/ref/AP1.dll
